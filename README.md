@@ -54,8 +54,8 @@
         <ul style="font-weight: 700;">
             <li><b>IDR Invision</b> | Development of Predictive Maintenance (PdM) AI Models for EV Charging Systems (2026.09 - Ongoing)</li>
             <li><b>SK hynix</b> | Development of Failure Prediction Model Based on Enterprise SSD Incident Reports (2026.07 - Ongoing)</li>
-            <li><b>mySUNI</b> | Teaching Assistant, Autonomous R&D Program (2026.07 - Present)</li>
-            <li><b>KCB</b> | Teaching Assistant, Machine Learning & LLM Training Program (2026.01 - Present)</li>
+            <li><b>mySUNI</b> | Teaching Assistant, Autonomous R&D Program (2026.07)</li>
+            <li><b>KCB</b> | Teaching Assistant, Machine Learning & LLM Training Program (2026.01)</li>
             <li><b>SK hynix</b> | Semiconductor Data Science Mentoring Program (2025.01 - Ongoing)</li>
             <li><b>SK hynix</b> | Defect Prediction Model for System Interrupt in Data Center SSDs (2024.06 - 2026.06)</li>
         </ul>
@@ -94,8 +94,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Honors </h2>
     <div style="font-size: 15px; color: #282d33; margin-bottom: 20px;">
         <ul style="font-weight: 700;">
-            <li><b>Best Presentation Award</b>, Graduate Student Academic Presentation Competition, Department of Industrial Engineering, Yonsei University (2026.05)</li>
-            <li><b>Top Excellence Award</b>, AI-Based Civil Complaint Service Innovation Scenario & Development Method Competition (2026)</li>
+            <li><b>Best Presentation Award</b>, Graduate Student Academic Presentation Competition, Department of Industrial Engineering, Yonsei University (2026.06)</li>
+            <li><b>Top Excellence Award</b>, AI-Based Civil Complaint Service Innovation Scenario & Development Method Competition (2026.06)</li>
             <li><b>Graduated 2nd in Class</b>, Industrial and Management Engineering, Myongji University (2024.02)</li>
             <li><b>Bronze Award</b>, Undergraduate Project Competition, Fall Conference of the Korean Institute of Industrial Engineers (KIIE) (2023.11)</li>
             <li><b>Academic Excellence Scholarship</b>, Myongji University (2022, 2023)</li>
